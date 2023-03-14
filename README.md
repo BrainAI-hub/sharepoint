@@ -17,4 +17,7 @@ https://makecode.microbit.org/_f29bkxCACV7M
 - 얼굴 찾기 모델  https://docs.openvino.ai/2022.3/omz_models_model_face_detection_retail_0005.html
 - 얼굴 랜드 마크 찾기 모델  https://docs.openvino.ai/2022.3/omz_models_model_landmarks_regression_retail_0009.html
 
-5. 
+5. 기본 분류: 의류 이미지 분류 텐서플로(TensorFlow) 패션 MNIST 데이터셋
+- https://www.tensorflow.org/tutorials/keras/classification?hl=ko
+
+
